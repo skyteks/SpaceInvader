@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+SpaceInvaders/Debug/
+SpaceInvaders/Release/
+
+# Visual Studio Files
+/.vs
+/.vscode
